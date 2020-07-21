@@ -10,11 +10,11 @@
 ## Skills
 
 - Swift
-- Build System
 - ViewCode
 - CI & CD
-- Architectural Patterns(MVVM, MVC)
+- Architectural Patterns(MVVM, MVC, VIPER...)
 - Reactive Programming(Combine, RxSwift)
+- Build System's
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeep&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=true" />
 
