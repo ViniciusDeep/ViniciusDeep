@@ -7,15 +7,6 @@
 
 <p> 🕴🏿 <em> I am mobile developer 📱. Currently, I am working with the iOS environment, using the Swift language and agile methods for improve my team’s daily work</em></p>
 
-## Skills
-
-- Swift
-- ViewCode
-- CI & CD
-- Architectural Patterns(MVVM, MVC, VIPER...)
-- Reactive Programming(Combine, RxSwift)
-- Build System's
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeep&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=true" />
 
 
