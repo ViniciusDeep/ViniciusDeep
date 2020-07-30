@@ -2,12 +2,13 @@
 </div>
 <a href="https://www.linkedin.com/in/vinicius-mangueira-correia-9b9b8b138/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
-
-<h1> Hi 👋, my name is <b>Vinicius</b> Mangueira Correia!</h1>
-
-<p> 🕴🏿 <em> I am mobile developer 📱. Currently, I am working with the iOS environment, using the Swift language and agile methods for improve my team’s daily work</em></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeep&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=true" />
-
-
-
+<center>
+<table>
+  <tr>
+     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeep&theme=cobalt" /></td>
+     </td>
+   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDeep&hide=html&layout=compact&theme=cobalt" />
+     
+  </tr>  
+</table>
+</center>
