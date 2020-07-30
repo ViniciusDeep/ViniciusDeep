@@ -5,9 +5,9 @@
 <center>
 <table>
   <tr>
-     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeep&theme=cobalt" /></td>
+     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeep&theme=dracula" /></td>
      </td>
-   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDeep&hide=html&layout=compact&theme=cobalt" />
+   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDeep&hide=html&layout=compact&theme=dracula" />
      
   </tr>  
 </table>
